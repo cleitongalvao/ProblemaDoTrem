@@ -5,6 +5,7 @@ import javax.swing.JLabel;
 import javax.swing.JSlider;
 
 //Classe do Trem
+//Para saber onde o trem ta na Tela
 public class Trem extends Thread {
 	  private JLabel m_labelVelocidadeDaAnimacao;
 	  private JSlider m_deslizeVelocidadeDaAnimacao;
